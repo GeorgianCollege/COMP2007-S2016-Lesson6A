@@ -10,7 +10,7 @@
                 <h1>Login Page</h1>
                 <div class="panel panel-primary">
                     <div class="panel-heading">
-                        <h1 class="panel-title"><i class="fa fa-sign-in fa-lg"></i>Login</h1>
+                        <h1 class="panel-title"><i class="fa fa-sign-in fa-lg"></i> Login</h1>
                     </div>
                     <br />
                     <div class="panel-body">
